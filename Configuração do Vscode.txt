@@ -3,9 +3,9 @@ Configuração do Vscode
     "workbench.iconTheme": "symbols",
     "symbols.hidesExplorerArrows": false,
     "tabnine.experimentalAutoImports": true,
-    "workbench.colorTheme": "Dracula",
+    "workbench.colorTheme": "Dracula Theme",
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 12,
+    "editor.fontSize": 14,
     "editor.lineHeight": 1.8,
     "workbench.startupEditor": "newUntitledFile",
     "editor.renderLineHighlight": "gutter",
@@ -14,14 +14,12 @@ Configuração do Vscode
     "explorer.compactFolders": false,
     "editor.semanticHighlighting.enabled": false,
     "editor.minimap.enabled": false,
-    "workbench.statusBar.visible": false,
     "workbench.layoutControl.enabled": false,
     "apc.header": {
         "height": 36
     },
     "apc.stylesheet": {
-        ".title-label > h2": "display: none",
-        ".editor-actions": "display: none",
+       ".title-label ": "display: none",
     },
     "apc.font.family": "Inter",
     "apc.listRow": {
@@ -34,5 +32,16 @@ Configuração do Vscode
     },
     "emmet.syntaxProfiles": {
         "javascript": "jsx"
-    }
+    },
+    "terminal.integrated.env.linux": {},
+    "workbench.editor.showTabs": "multiple",
+    "workbench.editor.enablePreview": false,
+    "window.customTitleBarVisibility": "auto",
+    "window.titleBarStyle": "custom",
+    "workbench.statusBar.visible": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "window.commandCenter": false,
+    "explorer.autoReveal": true,
+    "editor.stickyScroll.enabled": false
+    
 }
