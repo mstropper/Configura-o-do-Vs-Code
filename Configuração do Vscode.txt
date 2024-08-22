@@ -13,7 +13,8 @@ Configuração do Vscode
     "workbench.editor.labelFormat": "short",
     "explorer.compactFolders": false,
     "editor.semanticHighlighting.enabled": false,
-    "editor.minimap.enabled": false,
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.enabled": true,
     "workbench.layoutControl.enabled": false,
     "apc.header": {
         "height": 36
